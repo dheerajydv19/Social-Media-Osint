@@ -80,5 +80,12 @@ https://lookup-id.com/
  
  Find out how your page performances are compared to the average performances of the 42,578 pages added to the Barometer.
  
- ## Instagram
+ ## Instagram -
+ 
+ #### 1. Igram
+ https://igram.io/
+ 
+ Download Photos, Videos, IGTV & more from a public instagram account.
+ 
+ #### 2. 
 
