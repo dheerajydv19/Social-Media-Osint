@@ -36,7 +36,28 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 
 ### Facebook -
 
-#### 1. Facebook Recover Lookup 
+#### 1. Facebook Recover Lookup -
 https://www.facebook.com/login/identify?ctx=recover
 
 Used to check if given mail or phone number is associated with any facebook account or not
+
+#### 2. CrowdTangle Link Checker
+https://apps.crowdtangle.com/chrome-extension
+
+show the specific Facebook posts, Instagram posts, tweets, and subreddits that mention this link. It works for articles, as well as YouTube videos, Facebook videos and more. 
+
+#### 3. Social Searcher
+https://www.social-searcher.com/
+
+allows you to monitor all public social mentions in social networks and web.
+
+#### 4. Lookup-id.com
+https://lookup-id.com/
+
+ helps you to find the Facebook ID of anyone's profile or a Group
+ 
+ #### 5. Who posted this
+ https://whopostedwhat.com/
+ 
+ Facebook keyword search for people who work in the public interest. It allows you to search keywords on specific dates.
+ 
