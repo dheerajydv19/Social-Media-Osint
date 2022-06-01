@@ -38,4 +38,4 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 
 #### | Name |   Link   | Description                |
 | :-------- | :------- | :------------------------- |
-|Facebook Recover Lookup|https://www.facebook.com/login/identify?ctx=recover|Used to check if given mail or username is associated with any facebook account or not|
+|Facebook Recover Lookup|https://www.facebook.com/login/identify?ctx=recover |Used to check if given mail or username is associated with any facebook account or not|
