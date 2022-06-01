@@ -61,3 +61,18 @@ https://lookup-id.com/
  
  Facebook keyword search for people who work in the public interest. It allows you to search keywords on specific dates.
  
+ #### 6. Facebook Search
+ https://www.sowsearch.info/
+ 
+ Allows you to search on facebook for posts,people,photos,etc using some filters
+ 
+ #### 7. Hashatit
+ https://www.hashatit.com/
+ A simple social media search engine for Hashtags
+ 
+ #### 8. Facebook People Search
+ https://www.facebook.com/directory/people/
+ 
+ Search on facebook by victim's name
+ 
+ #### 
