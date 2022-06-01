@@ -75,4 +75,9 @@ https://lookup-id.com/
  
  Search on facebook by victim's name
  
- #### 
+ #### 9. Facebook Page Analytics tool
+ https://barometer.agorapulse.com/home
+ 
+ Find out how your page performances are compared to the average performances of the 42,578 pages added to the Barometer.
+ 
+
