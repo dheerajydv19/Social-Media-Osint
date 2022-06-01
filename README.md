@@ -34,7 +34,7 @@ Open source intelligence (OSINT) is the practice of collecting information from 
 
 Social Media Osint, also known as Social media intelligence allows one to collect intelligence gathering from social media sites like Facebook, Twitter, Instagram etc. This type of intelligence gathering is one element of OSINT (Open- Source Intelligence).
 
-### Facebook -
+## Facebook -
 
 #### 1. Facebook Recover Lookup -
 https://www.facebook.com/login/identify?ctx=recover
@@ -80,4 +80,5 @@ https://lookup-id.com/
  
  Find out how your page performances are compared to the average performances of the 42,578 pages added to the Barometer.
  
+ ## Instagram
 
