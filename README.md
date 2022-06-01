@@ -1,4 +1,4 @@
-# social-media-osint
+# Social-Media-Osint
 A collection of most useful tools for social media osint.
 
 ## Authors
@@ -25,3 +25,11 @@ solemnly made for the purpose for helping beginners and creating cyber awareness
 [5. Points to keep in mind](#points-to-keep-in-mind--)
 
 [6. FAQs](#faq )
+
+## What is OSINT
+
+Open source intelligence (OSINT) is the practice of collecting information from published or otherwise publicly available sources. OSINT operations, whether practiced by IT security pros, malicious hackers, or state-sanctioned intelligence operatives, use advanced techniques to search through the vast haystack of visible data to find the needles they're looking for to achieve their goals—and learn information that many don't realize is public.
+
+## What is Social Media OSINT
+
+Social Media Osint, also known as Social media intelligence allows one to collect intelligence gathering from social media sites like Facebook, Twitter, Instagram etc. This type of intelligence gathering is one element of OSINT (Open- Source Intelligence).
