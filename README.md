@@ -18,13 +18,13 @@ solemnly made for the purpose for helping beginners and creating cyber awareness
 
 [2. What is Social Media Osint](#what-is-social-media-osint )
 
-[3. Facebook](#Facebook )
+[3. Facebook](#Facebook-- )
 
-[4. Instagram](#instagram )
+[4. Instagram](#instagram-- )
 
-[5. Linkden](#linkden )
+[5. Linkden](#linkden-- )
 
-[6. Twitter](#twitter )
+[6. Twitter](#twitter-- )
 
 [7. Points to keep in mind](#points-to-keep-in-mind--)
 
