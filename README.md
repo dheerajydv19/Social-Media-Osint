@@ -18,13 +18,17 @@ solemnly made for the purpose for helping beginners and creating cyber awareness
 
 [2. What is Social Media Osint](#what-is-social-media-osint )
 
-[3. Collection of Most Useful tools](#collection-of-most-useful-tools )
+[3. Facebook](#Facebook )
 
-[4. My Special Collection](#my-special-collection )
+[4. Instagram](#instagram )
 
-[5. Points to keep in mind](#points-to-keep-in-mind--)
+[5. Linkden](#linkden )
 
-[6. FAQs](#faq )
+[6. Twitter](#twitter )
+
+[7. Points to keep in mind](#points-to-keep-in-mind--)
+
+[8. FAQs](#faq )
 
 ## What is OSINT
 
