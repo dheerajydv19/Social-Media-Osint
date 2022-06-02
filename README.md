@@ -87,5 +87,24 @@ https://lookup-id.com/
  
  Download Photos, Videos, IGTV & more from a public instagram account.
  
- #### 2. 
+ #### 2. IFTTT
+ https://ifttt.com/
+ 
+ allow a user to program a response to events in the world.
+ 
+ #### 3. Pickuki
+ https://www.picuki.com/
+ 
+ Edit and browse Instagram content without logging in.
+ 
+ #### 4. Gramhir
+ https://gramhir.com/
+ 
+ Analyze and explore Instagram in a new and better way
+
+#### 5. Instaloader
+https://github.com/instaloader/instaloader
+
+Download pictures (or videos) along with their captions and other metadata from Instagram.
+
 
