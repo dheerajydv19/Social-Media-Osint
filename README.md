@@ -119,5 +119,64 @@ https://recruitin.net/
  
  allows you to programatically search & lookup contact info over 700 million professionals, and 35 million companies.
  
+ ## Twitter
+ 
+ #### 1. Social Bearing
+ https://socialbearing.com/
+ 
+ Free Twitter analytics & search for tweets, timelines & twitter maps.
+Find, filter and sort tweets or people by engagement, influence, location, sentiment and more
+#### 2. Trendsmap
+https://www.trendsmap.com/
 
+Analyse any topic globally or by region in detail. Create unique map based visualisations showing tweet activity across a country, a region, or the world.
 
+#### 3. Follower.me
+https://foller.me/
+
+ a Twitter analytics application that gives you rich insights about any public Twitter profile.
+ 
+ #### 4. TweetBeaver 
+ https://tweetbeaver.com/index.php
+ 
+ can gather data on any non-private account and returns most searches as a csv for easier filtering and analysis.
+ 
+ #### 5. TweeterID
+ https://tweeterid.com/
+ 
+ allows you to easily look up any username (@handle) on Twitter and find out what their corresponding ID is.
+ 
+ #### 6. TweetDeck
+ https://tweetdeck.twitter.com/
+ 
+ offers a more convenient Twitter experience by letting you view multiple timelines in one easy interface.
+ 
+ #### 7. Spoonbill
+ http://spoonbill.io/
+ 
+ allows you see profile changes from the people you follow on Twitter or other social networks.
+
+#### 8. FollowerWonk
+https://followerwonk.com/bio
+
+Helps you to find twitter accounts using bio and also provides many other useful features.
+
+#### 9. Twitter Advance Search
+https://twitter.com/search-advanced
+
+Allows you to search on twitter using filters for better search results.
+
+#### 10. Twipho
+http://twipho.net/
+
+ lets you discover what's happening on Twitter right now, but via the medium of images rather than text-based tweets.
+
+#### 11. TweeetMap
+https://www.heavy.ai/demos/tweetmap
+
+allows you to analyze twitter accounts that you do not own, and gain accurate insight on influencer interactions and personality
+
+#### 12. TinfoLeak
+https://tinfoleak.com/
+
+Basic information about a Twitter user (name, picture, location, followers, etc.)
