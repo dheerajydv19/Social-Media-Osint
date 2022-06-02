@@ -26,9 +26,7 @@ solemnly made for the purpose for helping beginners and creating cyber awareness
 
 [6. Twitter](#twitter-- )
 
-[7. Points to keep in mind](#points-to-keep-in-mind--)
-
-[8. FAQs](#faq )
+[7. FAQs](#faq )
 
 ## What is OSINT
 
@@ -184,6 +182,21 @@ allows you to analyze twitter accounts that you do not own, and gain accurate in
 https://tinfoleak.com/
 
 Basic information about a Twitter user (name, picture, location, followers, etc.)
+
+
+## FAQ
+
+#### Is using Osint illegal ?
+
+No, using osint is legal but if you use the information gatered via osint for illegal or with wrong intentions, then that will be illegal.
+
+#### Are these the only tools exist for social media osint ?
+
+No, their exists a lot of tool for social media osint, we have just listed the best ones.
+
+#### Where can we get more tools for social media osint ?
+
+We will be listing many other tools in future in this repo, we will try to maintain for long and will keep adding more and more.
 
 ## Contributions
 
