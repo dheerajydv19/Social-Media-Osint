@@ -56,29 +56,29 @@ https://lookup-id.com/
 
  helps you to find the Facebook ID of anyone's profile or a Group
  
- #### 5. Who posted this
- https://whopostedwhat.com/
+#### 5. Who posted this
+https://whopostedwhat.com/
  
- Facebook keyword search for people who work in the public interest. It allows you to search keywords on specific dates.
+Facebook keyword search for people who work in the public interest. It allows you to search keywords on specific dates.
  
- #### 6. Facebook Search
- https://www.sowsearch.info/
+#### 6. Facebook Search
+https://www.sowsearch.info/
  
- Allows you to search on facebook for posts,people,photos,etc using some filters
+Allows you to search on facebook for posts,people,photos,etc using some filters
  
- #### 7. Hashatit
- https://www.hashatit.com/
- A simple social media search engine for Hashtags
+#### 7. Hashatit
+https://www.hashatit.com/
+A simple social media search engine for Hashtags
  
- #### 8. Facebook People Search
- https://www.facebook.com/directory/people/
+#### 8. Facebook People Search
+https://www.facebook.com/directory/people/
  
- Search on facebook by victim's name
+Search on facebook by victim's name
  
- #### 9. Facebook Page Analytics tool
- https://barometer.agorapulse.com/home
+#### 9. Facebook Page Analytics tool
+https://barometer.agorapulse.com/home
  
- Find out how your page performances are compared to the average performances of the 42,578 pages added to the Barometer.
+Find out how your page performances are compared to the average performances of the 42,578 pages added to the Barometer.
  
  ## Instagram -
  
