@@ -107,7 +107,7 @@ https://github.com/instaloader/instaloader
 
 Download pictures (or videos) along with their captions and other metadata from Instagram.
 
-## Linkden
+## Linkden -
 
 #### 1. RecruitEm
 https://recruitin.net/
@@ -119,7 +119,7 @@ https://recruitin.net/
  
  allows you to programatically search & lookup contact info over 700 million professionals, and 35 million companies.
  
- ## Twitter
+ ## Twitter -
  
  #### 1. Social Bearing
  https://socialbearing.com/
