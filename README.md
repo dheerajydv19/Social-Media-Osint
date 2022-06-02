@@ -54,7 +54,7 @@ allows you to monitor all public social mentions in social networks and web.
 #### 4. Lookup-id.com
 https://lookup-id.com/
 
- helps you to find the Facebook ID of anyone's profile or a Group
+helps you to find the Facebook ID of anyone's profile or a Group
  
 #### 5. Who posted this
 https://whopostedwhat.com/
@@ -80,27 +80,27 @@ https://barometer.agorapulse.com/home
  
 Find out how your page performances are compared to the average performances of the 42,578 pages added to the Barometer.
  
- ## Instagram -
+## Instagram -
  
- #### 1. Igram
- https://igram.io/
+#### 1. Igram
+https://igram.io/
  
- Download Photos, Videos, IGTV & more from a public instagram account.
+Download Photos, Videos, IGTV & more from a public instagram account.
  
- #### 2. IFTTT
- https://ifttt.com/
+#### 2. IFTTT
+https://ifttt.com/
  
- allow a user to program a response to events in the world.
+allow a user to program a response to events in the world.
  
- #### 3. Pickuki
- https://www.picuki.com/
+#### 3. Pickuki
+https://www.picuki.com/
  
- Edit and browse Instagram content without logging in.
+Edit and browse Instagram content without logging in.
  
- #### 4. Gramhir
- https://gramhir.com/
+#### 4. Gramhir
+https://gramhir.com/
  
- Analyze and explore Instagram in a new and better way
+Analyze and explore Instagram in a new and better way
 
 #### 5. Instaloader
 https://github.com/instaloader/instaloader
@@ -112,19 +112,19 @@ Download pictures (or videos) along with their captions and other metadata from 
 #### 1. RecruitEm
 https://recruitin.net/
 
- allows to search social media profiles. It helps recruiters to create a google boolean string that searches all public profiles.
+allows to search social media profiles. It helps recruiters to create a google boolean string that searches all public profiles.
  
- #### 2. RocketReach 
- https://rocketreach.co/api?section=nav_ws_lookupProfile
+#### 2. RocketReach 
+https://rocketreach.co/api?section=nav_ws_lookupProfile
  
- allows you to programatically search & lookup contact info over 700 million professionals, and 35 million companies.
+allows you to programatically search & lookup contact info over 700 million professionals, and 35 million companies.
  
- ## Twitter -
+## Twitter -
  
- #### 1. Social Bearing
- https://socialbearing.com/
+#### 1. Social Bearing
+https://socialbearing.com/
  
- Free Twitter analytics & search for tweets, timelines & twitter maps.
+Free Twitter analytics & search for tweets, timelines & twitter maps.
 Find, filter and sort tweets or people by engagement, influence, location, sentiment and more
 #### 2. Trendsmap
 https://www.trendsmap.com/
@@ -134,27 +134,27 @@ Analyse any topic globally or by region in detail. Create unique map based visua
 #### 3. Follower.me
 https://foller.me/
 
- a Twitter analytics application that gives you rich insights about any public Twitter profile.
+a Twitter analytics application that gives you rich insights about any public Twitter profile.
  
- #### 4. TweetBeaver 
- https://tweetbeaver.com/index.php
+#### 4. TweetBeaver 
+https://tweetbeaver.com/index.php
  
- can gather data on any non-private account and returns most searches as a csv for easier filtering and analysis.
+can gather data on any non-private account and returns most searches as a csv for easier filtering and analysis.
  
- #### 5. TweeterID
- https://tweeterid.com/
+#### 5. TweeterID
+https://tweeterid.com/
  
- allows you to easily look up any username (@handle) on Twitter and find out what their corresponding ID is.
+allows you to easily look up any username (@handle) on Twitter and find out what their corresponding ID is.
  
- #### 6. TweetDeck
- https://tweetdeck.twitter.com/
+#### 6. TweetDeck
+https://tweetdeck.twitter.com/
  
- offers a more convenient Twitter experience by letting you view multiple timelines in one easy interface.
+offers a more convenient Twitter experience by letting you view multiple timelines in one easy interface.
  
- #### 7. Spoonbill
- http://spoonbill.io/
+#### 7. Spoonbill
+http://spoonbill.io/
  
- allows you see profile changes from the people you follow on Twitter or other social networks.
+allows you see profile changes from the people you follow on Twitter or other social networks.
 
 #### 8. FollowerWonk
 https://followerwonk.com/bio
@@ -169,7 +169,7 @@ Allows you to search on twitter using filters for better search results.
 #### 10. Twipho
 http://twipho.net/
 
- lets you discover what's happening on Twitter right now, but via the medium of images rather than text-based tweets.
+lets you discover what's happening on Twitter right now, but via the medium of images rather than text-based tweets.
 
 #### 11. TweeetMap
 https://www.heavy.ai/demos/tweetmap
