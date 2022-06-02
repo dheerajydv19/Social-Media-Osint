@@ -107,4 +107,17 @@ https://github.com/instaloader/instaloader
 
 Download pictures (or videos) along with their captions and other metadata from Instagram.
 
+## Linkden
+
+#### 1. RecruitEm
+https://recruitin.net/
+
+ allows to search social media profiles. It helps recruiters to create a google boolean string that searches all public profiles.
+ 
+ #### 2. RocketReach 
+ https://rocketreach.co/api?section=nav_ws_lookupProfile
+ 
+ allows you to programatically search & lookup contact info over 700 million professionals, and 35 million companies.
+ 
+
 
