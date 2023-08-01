@@ -1,16 +1,10 @@
 # Social-Media-Osint
-A collection of most useful tools for social media osint.
+A collection of the most useful tools for social media osint.
 
 ## Authors
 
-- [@InfuriousICC](https://github.com/InfuriousICC)
-
 - [@dheerajydv19](https://github.com/dheerajydv19)
 
-
-## 🚀 About Us
-INFURIOUS CYBER COMMUNITY 
-solemnly made for the purpose for helping beginners and creating cyber awareness. 
 
 ## Documentation
 
@@ -30,18 +24,18 @@ solemnly made for the purpose for helping beginners and creating cyber awareness
 
 ## What is OSINT
 
-Open source intelligence (OSINT) is the practice of collecting information from published or otherwise publicly available sources. OSINT operations, whether practiced by IT security pros, malicious hackers, or state-sanctioned intelligence operatives, use advanced techniques to search through the vast haystack of visible data to find the needles they're looking for to achieve their goals—and learn information that many don't realize is public.
+Open-source intelligence (OSINT) is the practice of collecting information from published or otherwise publicly available sources. OSINT operations, whether practiced by IT security pros, malicious hackers, or state-sanctioned intelligence operatives, use advanced techniques to search through the vast haystack of visible data to find the needles they're looking for to achieve their goals—and learn information that many don't realize is public.
 
 ## What is Social Media OSINT
 
-Social Media Osint, also known as Social media intelligence allows one to collect intelligence gathering from social media sites like Facebook, Twitter, Instagram etc. This type of intelligence gathering is one element of OSINT (Open- Source Intelligence).
+Social Media Osint, also known as Social media intelligence allows one to collect intelligence from social media sites like Facebook, Twitter, Instagram etc. This type of intelligence gathering is one element of OSINT (Open- Source Intelligence).
 
 ## Facebook -
 
 #### 1. Facebook Recover Lookup -
 https://www.facebook.com/login/identify?ctx=recover
 
-Used to check if given mail or phone number is associated with any facebook account or not
+Used to check if a given mail or phone number is associated with any Facebook account or not
 
 #### 2. CrowdTangle Link Checker
 https://apps.crowdtangle.com/chrome-extension
@@ -204,15 +198,15 @@ Contributions are always welcome!
 
 You can contact us any time on any of our social media platforms for any kind of suggestions and Contributions.
 
-Official Mail - infurious.icc@gmail.com
+Official Mail - dheerajyadavmandlana@gmail.com
 
-GitHub - [https://github.com/InfuriousICC](https://github.com/InfuriousICC)
+GitHub - [https://github.com/dheerajydv19](https://github.com/dheerajydv19)
 
-Twitter - [https://twitter.com/infurious_icc](https://twitter.com/infurious_icc)
+Twitter - [https://twitter.com/dheerajydv19](https://twitter.com/dheerajydv19)
 
-Telegram - [https://t.me/infurious_icc](https://t.me/infurious_icc)
+Telegram - [https://t.me/dheerajydv19](https://t.me/dheerajydv19)
 
-Instagram - [https://instagram.com/infurious_icc](https://instagram.com/infurious_icc)
+Instagram - [https://instagram.com/dheerajydv19](https://instagram.com/dheerajydv19)
 
 
 Developed with ❤️ in India 🇮🇳 
