@@ -1,6 +1,9 @@
 # Social-Media-Osint
 A collection of the most useful tools for social media osint.
 
+# An updated version of this repo is availiable on @OSINTAmbition , click below.
+https://github.com/osintambition/Social-Media-OSINT-Tools-Collection
+
 ## Authors
 
 - [@dheerajydv19](https://github.com/dheerajydv19)
