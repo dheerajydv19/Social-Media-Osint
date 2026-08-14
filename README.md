@@ -1,7 +1,7 @@
 # Social-Media-Osint
 A collection of the most useful tools for social media osint.
 
-# An updated version of this repo is availiable on @OSINTAmbition , click below.
+# An updated version of this repo is available on @OSINTAmbition , click below.
 https://github.com/osintambition/Social-Media-OSINT-Tools-Collection
 
 ## Authors
@@ -19,7 +19,7 @@ https://github.com/osintambition/Social-Media-OSINT-Tools-Collection
 
 [4. Instagram](#instagram-- )
 
-[5. Linkden](#linkden-- )
+[5. LinkedIn](#linkedin-- )
 
 [6. Twitter](#twitter-- )
 
@@ -106,7 +106,7 @@ https://github.com/instaloader/instaloader
 
 Download pictures (or videos) along with their captions and other metadata from Instagram.
 
-## Linkden -
+## LinkedIn -
 
 #### 1. RecruitEm
 https://recruitin.net/
@@ -166,11 +166,11 @@ https://twitter.com/search-advanced
 Allows you to search on twitter using filters for better search results.
 
 #### 10. Twipho
-http://twipho.net/
+https://twipho.net/
 
 lets you discover what's happening on Twitter right now, but via the medium of images rather than text-based tweets.
 
-#### 11. TweeetMap
+#### 11. TweetMap
 https://www.heavy.ai/demos/tweetmap
 
 allows you to analyze twitter accounts that you do not own, and gain accurate insight on influencer interactions and personality
@@ -180,12 +180,19 @@ https://tinfoleak.com/
 
 Basic information about a Twitter user (name, picture, location, followers, etc.)
 
+#### 13. Xquik
+https://github.com/Xquik-dev/x-twitter-scraper
+
+Independent X (Twitter) data API for search, follower export, monitors, and MCP. Not affiliated with X Corp.
+
+
+
 
 ## FAQ
 
 #### Is using Osint illegal ?
 
-No, using osint is legal but if you use the information gatered via osint for illegal or with wrong intentions, then that will be illegal.
+No, using osint is legal but if you use the information gathered via OSINT for illegal or with wrong intentions, then that will be illegal.
 
 #### Are these the only tools exist for social media osint ?
 
