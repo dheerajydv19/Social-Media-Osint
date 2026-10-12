@@ -8,6 +8,15 @@ https://github.com/osintambition/Social-Media-OSINT-Tools-Collection
 
 - [@dheerajydv19](https://github.com/dheerajydv19)
 
+## Install command-line tools
+
+[OTinstaller](https://github.com/OSINTVerseHQ/OTinstaller) installs open-source OSINT command-line tools on Linux, each in its own virtualenv.
+
+```bash
+pipx install otinstaller
+ot install sherlock
+```
+
 
 ## Documentation
 
