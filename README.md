@@ -144,10 +144,10 @@ https://foller.me/
 
 a Twitter analytics application that gives you rich insights about any public Twitter profile.
  
-#### 4. TweetBeaver 
-https://tweetbeaver.com/index.php
+#### 4. twtData X Trends Archive
+https://twtdata.com/twitter-trends/
  
-can gather data on any non-private account and returns most searches as a csv for easier filtering and analysis.
+Free, no sign-up: what trended on X in a country or city on a given day, with the best position and hours on the list for hourly-tracked locations. Follower and tweet exports to CSV are paid.
  
 #### 5. TweeterID
 https://tweeterid.com/
