@@ -32,7 +32,9 @@ ot install sherlock
 
 [6. Twitter](#twitter-- )
 
-[7. FAQs](#faq )
+[7. Phone and Email](#phone-and-email-- )
+
+[8. FAQs](#faq )
 
 ## What is OSINT
 
@@ -188,6 +190,14 @@ allows you to analyze twitter accounts that you do not own, and gain accurate in
 https://tinfoleak.com/
 
 Basic information about a Twitter user (name, picture, location, followers, etc.)
+
+
+## Phone and Email -
+
+#### 1. 1Lookup
+https://www.1lookup.io/?ref=dheeraj
+
+Free reverse phone and reverse email lookups, plus a number's carrier, line type and HLR status.
 
 
 ## FAQ
